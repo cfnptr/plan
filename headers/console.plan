@@ -1,0 +1,13 @@
+class Console
+	void write(int value)
+	void write(float value)
+	void write(bool value)
+	void write(string message)
+	void write(char character)
+
+	void write(int8 value)
+	void write(int16 value)
+	void write(int32 value)
+	void write(int64 value)
+	void write(float64 value)
+end

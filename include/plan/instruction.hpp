@@ -153,7 +153,7 @@ enum class Instruction : uint8_t
 	MulU8V,  /**< Multiplies one 8bit unsigned integer value by the another. (op: *) */
 	MulU16V, /**< Multiplies one 16bit unsigned integer value by the another. (op: *) */
 	MulU32V, /**< Multiplies one 32bit unsigned integer value by the another. (op: *) */
-	MulU64,  /**< Multiplies one 64bit unsigned integer value by the another. (op: *) */
+	MulU64V, /**< Multiplies one 64bit unsigned integer value by the another. (op: *) */
 	MulI8V,  /**< Multiplies one 8bit signed integer value by the another. (op: *) */
 	MulI16V, /**< Multiplies one 16bit signed integer value by the another. (op: *) */
 	MulI32V, /**< Multiplies one 32bit signed integer value by the another. (op: *) */
